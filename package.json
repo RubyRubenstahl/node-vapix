@@ -8,9 +8,9 @@
     "url": "https://github.com/gluxon/node-vapix.git"
   },
   "main": "./lib/vapix",
-  "dependencies" : {
-    "mjpeg-consumer" : "1.0.x",
-    "request"        : "2.x.x"
+  "dependencies": {
+    "mjpeg-consumer": "^2.0.0",
+    "request": "2.x.x"
   },
   "license": "MIT",
   "engines": {
